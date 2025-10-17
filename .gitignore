@@ -1,0 +1,12 @@
+/env/
+/node_modules/
+.env
+credentials.json
+*.key
+*.pem
+!package.json
+feedback.txt
+
+__pycache__/
+*.py[cod]
+*.pyo

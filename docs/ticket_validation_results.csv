@@ -1,0 +1,21 @@
+ticket_id,ticket_content,true_category,predicted_category
+1725810001,How to turn on the HP laptop?,Getting Started,Getting Started
+1725810002,What is the shortcut to enter BIOS settings?,Troubleshooting,Getting Started
+1725810003,How do I connect my HP laptop to Wi-Fi?,Connectivity,Connectivity
+1725810004,Steps to extend battery life on HP Pavilion.,Power Management,Power Management
+1725810005,How to use HP recovery manager for system reset?,Troubleshooting,Troubleshooting
+1725810006,Which port supports HDMI output?,Hardware,Hardware
+1725810007,How to enable Bluetooth on my HP device?,Connectivity,Connectivity
+1725810008,Where can I check warranty details?,Support,Support
+1725810009,How to calibrate the laptop battery?,Power Management,Power Management
+1725810010,What to do if the laptop overheats?,Troubleshooting,Power Management
+1725810011,How to update drivers on HP laptop?,Software,Software
+1725810012,What is HP CoolSense and how to enable it?,Power Management,Getting Started
+1725810013,How to connect external monitor?,Hardware,Connectivity
+1725810014,How to disable touchpad temporarily?,Hardware,Hardware
+1725810015,How to recover forgotten BIOS password?,Security,Troubleshooting
+1725810016,How do I install Windows updates on HP?,Software,Software
+1725810017,How to perform a hard reset?,Troubleshooting,Troubleshooting
+1725810018,Which function key controls brightness?,Hardware,Hardware
+1725810019,How to use fingerprint reader for login?,Security,Security
+1725810020,Steps to run HP PC Hardware Diagnostics.,Troubleshooting,Troubleshooting
